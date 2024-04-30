@@ -3,9 +3,14 @@
 <h3>👩‍💻 &nbsp; About Me:</h3>
 * ❤ &nbsp; FrontEnd Developer
 <br/>
-* 😊 &nbsp; Coding Are My Hobby :))
+* 😊 &nbsp; I'm a curious Developer, thirsty to learn something new
 <br/>
 * 🤝 &nbsp; I'm open to collaborating on interesting projects as a web developer
+<br/>
+* 🌏 &nbsp; I’m currently living in Shiraz, Iran.
+<br/>
+* 🚩 &nbsp; Long term goals: master front end technologies
+
 
   <h3>🔧 &nbsp; Skills:</h3>
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" />
