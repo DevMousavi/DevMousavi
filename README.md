@@ -1,21 +1,18 @@
 <h2>Hi There!</h2>
 <h2>I'm Alireza Mousavi</h2>
 <h3>👩‍💻 &nbsp; About Me:</h3>
-- ❤ &nbsp; FrontEnd Developer
+* ❤ &nbsp; FrontEnd Developer
 <br/>
-- 😊 &nbsp; Coding Are My Hobby :))
+* 😊 &nbsp; Coding Are My Hobby :))
 <br/>
-- ☘ &nbsp; I learned by myself and did'n go to university
+* 🤝 &nbsp; I'm open to collaborating on interesting projects as a web developer
 
-  <h3>🔧 &nbsp; Tech Stack</h3>
-  - 💻 &nbsp;
-  <br/>
-  1. HTML5
-  <br/>
-  2. CSS3
-  <br/>
-  3. Tailwind
-  <br/>
-  4. JavaScript
-  <br/>
-  5. React
+  <h3>🔧 &nbsp; Skills:</h3>
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
+  <img src="https://shields.io/badge/JavaScript-333333?logo=JavaScript&style=flat" />
+  <img src="https://shields.io/badge/React-333333?logo=react&style=flat" />
+ 
+
+
